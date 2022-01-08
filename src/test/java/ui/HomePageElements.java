@@ -9,7 +9,6 @@ public class HomePageElements {
     public final static Target LOGOUT_BTN = Target.the("logout button")
             .located(By.id("logoutButton"));
 
-
     //
     //Your balance is: 100.00$
     //
